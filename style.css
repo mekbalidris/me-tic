@@ -1,0 +1,42 @@
+body{
+text-indent: 14px;
+}
+#name{
+    color: blue;
+    margin-top: -4px;
+}
+#id1{
+    margin-top: -24px;
+}
+h2{
+    color:red;
+}
+#line{
+    margin-top: 6px;
+    border: 1px solid black;
+}
+#new_page{
+    margin-top: 170px;
+    border: 1px solid black;
+}
+#name2{
+    margin-top: 40px;
+}
+#email{
+    margin-top: -20px;
+}
+#adresse{
+    margin-top: -20px;
+}
+#motivation{
+    color:blue;
+}
+#salutation{
+    margin-top: 150px;
+}
+#name3{
+    margin-top: -24px;
+}
+#ig{
+    margin-top: 150px;
+}
